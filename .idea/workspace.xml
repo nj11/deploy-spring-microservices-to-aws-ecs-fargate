@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00186ba1-41fe-4167-b8f9-dd106493f30e" name="Default Changelist" comment="" />
+    <list default="true" id="00186ba1-41fe-4167-b8f9-dd106493f30e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/aws-hello-world-rest-api/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/aws-hello-world-rest-api/readme.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,7 +11,25 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/aws-hello-world-rest-api/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="340">
+                <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aws-hello-world-rest-api/screenshots/screenshot1.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -24,8 +44,8 @@
       <list>
         <option value="$PROJECT_DIR$/aws-hello-world-rest-api/Dockerfile" />
         <option value="$PROJECT_DIR$/aws-hello-world-rest-api/pom.xml" />
-        <option value="$PROJECT_DIR$/aws-hello-world-rest-api/readme.md" />
         <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/aws-hello-world-rest-api/readme.md" />
       </list>
     </option>
   </component>
@@ -52,6 +72,12 @@
               <item name="spring-microservices-on-aws-fargate" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-microservices-on-aws-fargate" type="462c0819:PsiDirectoryNode" />
               <item name="aws-hello-world-rest-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-on-aws-fargate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-microservices-on-aws-fargate" type="462c0819:PsiDirectoryNode" />
+              <item name="aws-hello-world-rest-api" type="462c0819:PsiDirectoryNode" />
+              <item name="screenshots" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -93,15 +119,16 @@
       <workItem from="1583421781881" duration="9000" />
       <workItem from="1583509489180" duration="633000" />
       <workItem from="1583942308533" duration="2643000" />
-      <workItem from="1583946478266" duration="4532000" />
+      <workItem from="1583946478266" duration="4858000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8479000" />
+    <option name="totallyTimeSpent" value="8805000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-10" y="0" width="2572" height="1384" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="UI Designer" order="0" />
       <window_info id="Favorites" order="1" side_tool="true" />
@@ -144,16 +171,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aws-hello-world-rest-api/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="51">
-            <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/aws-hello-world-rest-api/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -166,6 +183,19 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="68">
             <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aws-hello-world-rest-api/screenshots/screenshot1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aws-hello-world-rest-api/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="340">
+            <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
           </first_editor>
           <second_editor />
         </state>

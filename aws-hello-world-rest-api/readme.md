@@ -9,9 +9,16 @@
 * Install maven
 * Install docker desktop
 
-![Alt desc](https://github.com/nj11/spring-microservices-on-aws-fargate/aws-hellopworld-rest-api/blob/master/screenshots/screenshot2.png)
+* Make sure docker destop is running.
+
+* On docker desktop,navigate to settings => general.Make sure the "Expose daemon on tcp without TLS checkbox is checked as in screensot below"
+
+  ![Alt desc](https://github.com/nj11/deploy-spring-microservices-to-aws-ecs-fargate/blob/master/aws-hello-world-rest-api/screenshots/screenshot1.png)
+  
+* Restart docker desktop
 
 * Create docker hub account login
+
 * Create docker hub repository
 
 ### Creating Containers
