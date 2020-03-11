@@ -17,15 +17,22 @@
   
 * Restart docker desktop
 
-* Create docker hub account login
+* Create docker hub account login 
+ 
+    ```https://hub.docker.com/```
 
 * Create docker hub repository
 
 ### Creating Containers
 
+* Run the below commands in the same order
+
 ```
+   cd  aws-hello-world-rest-api
    mvn clean package
 ```
+
+* @@REPO@@ needs to be substituted with your repository name in docker hub
 
 ```
   docker login
@@ -33,7 +40,7 @@
 ```
 
 ```
-docker run --publish 8200:80 @@REPO@@:aws-hello-world-rest-api-1.0.0-RELEASE
+  docker run --publish 8200:80 @@REPO@@:aws-hello-world-rest-api-1.0.0-RELEASE
 ```
 
 
