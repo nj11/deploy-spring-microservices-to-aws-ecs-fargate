@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00186ba1-41fe-4167-b8f9-dd106493f30e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-    </list>
+    <list default="true" id="00186ba1-41fe-4167-b8f9-dd106493f30e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,20 +9,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="3" selection-start-column="3" selection-end-column="3" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -68,17 +53,6 @@
               <item name="spring-microservices-on-aws-fargate" type="462c0819:PsiDirectoryNode" />
               <item name="aws-hello-world-rest-api" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="spring-microservices-on-aws-fargate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-microservices-on-aws-fargate" type="462c0819:PsiDirectoryNode" />
-              <item name="aws-hello-world-rest-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-microservices-on-aws-fargate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-microservices-on-aws-fargate" type="462c0819:PsiDirectoryNode" />
-              <item name="screenshots" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -119,21 +93,20 @@
       <workItem from="1583421781881" duration="9000" />
       <workItem from="1583509489180" duration="633000" />
       <workItem from="1583942308533" duration="2643000" />
-      <workItem from="1583946478266" duration="4280000" />
+      <workItem from="1583946478266" duration="4532000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8227000" />
+    <option name="totallyTimeSpent" value="8479000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-10" y="0" width="2572" height="1384" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="UI Designer" order="0" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.13734077" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.29617834" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.50479233" />
@@ -191,8 +164,8 @@
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="3" selection-start-column="3" selection-end-column="3" />
+          <first_editor relative-caret-position="68">
+            <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
