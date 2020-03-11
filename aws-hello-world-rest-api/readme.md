@@ -74,20 +74,21 @@ Hello World
 * Finally we run the service on our browser using the public IP address available from the deployed service.
 
 
+* SCREENSHOTS :
 
-* ![Alt desc](https://github.com/nj11/deploy-spring-microservices-to-aws-ecs-fargate/blob/master/aws-hello-world-rest-api/screenshots/screenshot2.png)
-
-
-* ![Alt desc](https://github.com/nj11/deploy-spring-microservices-to-aws-ecs-fargate/blob/master/aws-hello-world-rest-api/screenshots/screenshot3.png)
+![Alt desc](https://github.com/nj11/deploy-spring-microservices-to-aws-ecs-fargate/blob/master/aws-hello-world-rest-api/screenshots/screenshot2.png)
 
 
-* ![Alt desc](https://github.com/nj11/deploy-spring-microservices-to-aws-ecs-fargate/blob/master/aws-hello-world-rest-api/screenshots/screenshot4.png)
+![Alt desc](https://github.com/nj11/deploy-spring-microservices-to-aws-ecs-fargate/blob/master/aws-hello-world-rest-api/screenshots/screenshot3.png)
 
 
-* ![Alt desc](https://github.com/nj11/deploy-spring-microservices-to-aws-ecs-fargate/blob/master/aws-hello-world-rest-api/screenshots/screenshot5.png)
+![Alt desc](https://github.com/nj11/deploy-spring-microservices-to-aws-ecs-fargate/blob/master/aws-hello-world-rest-api/screenshots/screenshot4.png)
 
 
-* ![Alt desc](https://github.com/nj11/deploy-spring-microservices-to-aws-ecs-fargate/blob/master/aws-hello-world-rest-api/screenshots/screenshot6.png)
+![Alt desc](https://github.com/nj11/deploy-spring-microservices-to-aws-ecs-fargate/blob/master/aws-hello-world-rest-api/screenshots/screenshot5.png)
+
+
+![Alt desc](https://github.com/nj11/deploy-spring-microservices-to-aws-ecs-fargate/blob/master/aws-hello-world-rest-api/screenshots/screenshot6.png)
 
 
 ![Alt desc](https://github.com/nj11/deploy-spring-microservices-to-aws-ecs-fargate/blob/master/aws-hello-world-rest-api/screenshots/screenshot7.png)

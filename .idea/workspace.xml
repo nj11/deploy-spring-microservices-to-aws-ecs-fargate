@@ -16,8 +16,8 @@
         <entry file="file://$PROJECT_DIR$/aws-hello-world-rest-api/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="295">
-                <caret line="73" column="108" selection-start-line="73" selection-start-column="108" selection-end-line="73" selection-end-column="108" />
+              <first_editor relative-caret-position="278">
+                <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
               </first_editor>
               <second_editor />
             </state>
@@ -115,12 +115,12 @@
       <workItem from="1583509489180" duration="633000" />
       <workItem from="1583942308533" duration="2643000" />
       <workItem from="1583946478266" duration="6746000" />
-      <workItem from="1583958165383" duration="550000" />
+      <workItem from="1583958165383" duration="660000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11243000" />
+    <option name="totallyTimeSpent" value="11353000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="2572" height="1384" extended-state="0" />
@@ -190,8 +190,8 @@
     <entry file="file://$PROJECT_DIR$/aws-hello-world-rest-api/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="295">
-            <caret line="73" column="108" selection-start-line="73" selection-start-column="108" selection-end-line="73" selection-end-column="108" />
+          <first_editor relative-caret-position="278">
+            <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
           </first_editor>
           <second_editor />
         </state>
