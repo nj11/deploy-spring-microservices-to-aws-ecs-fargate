@@ -67,20 +67,27 @@ Hello World
 
 ## Deploy to AWS Fargate cluster
 
+* Attached are instructions and screenshots on how to create AWS Fargate cluster with a task definition that defines what container needs to run.In this case we will use the container we deployed to docker hub in the above step.
 
-![Alt desc](https://github.com/nj11/deploy-spring-microservices-to-aws-ecs-fargate/blob/master/aws-hello-world-rest-api/screenshots/screenshot2.png)
+* We also define a service that specifies how many tasks to run.
 
-
-![Alt desc](https://github.com/nj11/deploy-spring-microservices-to-aws-ecs-fargate/blob/master/aws-hello-world-rest-api/screenshots/screenshot3.png)
-
-
-![Alt desc](https://github.com/nj11/deploy-spring-microservices-to-aws-ecs-fargate/blob/master/aws-hello-world-rest-api/screenshots/screenshot4.png)
+* Finally we run the service on our browser using the public IP address available from the deployed service.
 
 
-![Alt desc](https://github.com/nj11/deploy-spring-microservices-to-aws-ecs-fargate/blob/master/aws-hello-world-rest-api/screenshots/screenshot5.png)
+
+* ![Alt desc](https://github.com/nj11/deploy-spring-microservices-to-aws-ecs-fargate/blob/master/aws-hello-world-rest-api/screenshots/screenshot2.png)
 
 
-![Alt desc](https://github.com/nj11/deploy-spring-microservices-to-aws-ecs-fargate/blob/master/aws-hello-world-rest-api/screenshots/screenshot6.png)
+* ![Alt desc](https://github.com/nj11/deploy-spring-microservices-to-aws-ecs-fargate/blob/master/aws-hello-world-rest-api/screenshots/screenshot3.png)
+
+
+* ![Alt desc](https://github.com/nj11/deploy-spring-microservices-to-aws-ecs-fargate/blob/master/aws-hello-world-rest-api/screenshots/screenshot4.png)
+
+
+* ![Alt desc](https://github.com/nj11/deploy-spring-microservices-to-aws-ecs-fargate/blob/master/aws-hello-world-rest-api/screenshots/screenshot5.png)
+
+
+* ![Alt desc](https://github.com/nj11/deploy-spring-microservices-to-aws-ecs-fargate/blob/master/aws-hello-world-rest-api/screenshots/screenshot6.png)
 
 
 ![Alt desc](https://github.com/nj11/deploy-spring-microservices-to-aws-ecs-fargate/blob/master/aws-hello-world-rest-api/screenshots/screenshot7.png)

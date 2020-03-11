@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00186ba1-41fe-4167-b8f9-dd106493f30e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aws-hello-world-rest-api/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/aws-hello-world-rest-api/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +16,8 @@
         <entry file="file://$PROJECT_DIR$/aws-hello-world-rest-api/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="533">
-                <caret line="163" column="144" selection-start-line="163" selection-start-column="144" selection-end-line="163" selection-end-column="144" />
+              <first_editor relative-caret-position="295">
+                <caret line="73" column="108" selection-start-line="73" selection-start-column="108" selection-end-line="73" selection-end-column="108" />
               </first_editor>
               <second_editor />
             </state>
@@ -116,12 +115,12 @@
       <workItem from="1583509489180" duration="633000" />
       <workItem from="1583942308533" duration="2643000" />
       <workItem from="1583946478266" duration="6746000" />
-      <workItem from="1583958165383" duration="226000" />
+      <workItem from="1583958165383" duration="550000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10919000" />
+    <option name="totallyTimeSpent" value="11243000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="2572" height="1384" extended-state="0" />
@@ -130,10 +129,10 @@
       <window_info id="UI Designer" order="0" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.29856688" />
+      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.29856688" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.50479233" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.50479233" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
@@ -191,8 +190,8 @@
     <entry file="file://$PROJECT_DIR$/aws-hello-world-rest-api/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="533">
-            <caret line="163" column="144" selection-start-line="163" selection-start-column="144" selection-end-line="163" selection-end-column="144" />
+          <first_editor relative-caret-position="295">
+            <caret line="73" column="108" selection-start-line="73" selection-start-column="108" selection-end-line="73" selection-end-column="108" />
           </first_editor>
           <second_editor />
         </state>
